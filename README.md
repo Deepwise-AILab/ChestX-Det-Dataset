@@ -2,6 +2,8 @@
 
 ChestX-Det is an improved version of ChestX-Det10 https://github.com/Deepwise-AILab/ChestX-Det10-Dataset. On the basis of ChestX-Det10, we add ***three*** new categoires and 35 new images (from NIH ChestX-14). Besides, the **segmentation** annotations are also provided.
 
+ChestX-Det consists of 3578 images from NIH ChestX-14. We invite three board-certified radiologists to annotate them with 13 common categories of diseases or abnormalities.  
+
 The 13 categories are Atelectasis, Calcification, ***Cardiomegaly***, Consolidation, ***Diffuse Nodule***, Effusion, Emphysema, Fibrosis, Fracture, Mass, Nodule, ***Pleural Thickening***, Pneumothorax.
 
 ## Annotation:
