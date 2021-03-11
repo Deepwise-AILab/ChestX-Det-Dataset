@@ -42,5 +42,5 @@ For any question, please contact
 
 # Pre-trained_PSPNet
 
-In the paper "A Structure-Aware Relation Network for Thoracic Diseases Detection and Segmentation", we propose a SAR-Net which makes use of the anatomic information. We release the pre-trained PSPNet so that others can use the same amount of information as we used in the paper. The code is ***pre-trained_PSPNet***. For pkl file downloading, please visit http://resource.deepwise.com/ChestX-Det/pspnet_chestxray_best_model_4.pkl.
+In the paper "A Structure-Aware Relation Network for Thoracic Diseases Detection and Segmentation", we propose a SAR-Net which makes use of the anatomical information. We release the pre-trained PSPNet so that others can use the same amount of information as we used in the paper. The code is ***pre-trained_PSPNet***. For pkl file downloading, please visit http://resource.deepwise.com/ChestX-Det/pspnet_chestxray_best_model_4.pkl.
 
