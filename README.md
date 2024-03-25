@@ -30,7 +30,7 @@ The annotation files are ***ChestX_Det_train.json*** and ***ChestX_Det_test.json
 
 ## Download:
 
-For image downloading, please visit http://resource.deepwise.com/ChestX-Det/train_data.zip and http://resource.deepwise.com/ChestX-Det/test_data.zip.
+For image downloading, please visit https://resource.deepwise.com/ChestX-Det/train_data.zip and https://resource.deepwise.com/ChestX-Det/test_data.zip.
 
 ## Contact
 
